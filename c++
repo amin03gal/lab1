@@ -3,6 +3,6 @@
 #include <iostream>
 
 int main() {
-    std::cout <<blue!";
+    std::cout <<blu!";
     return 0;
 }
